@@ -1,0 +1,6 @@
+#4/24/2022 ознакомился с гитом, создали модель для бд sqllite
+
+#python manage.py runserver
+
+#python manage.py makemigrations
+#python manage.py migrate
